@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Deno](https://deno.com/), [NestJS](https://nestjs.com/)
 - 🤝 I’m looking to collaborate on [distributed systems](https://en.wikipedia.org/wiki/Distributed_computing)
 - 💬 Ask me about hiking ⛰️
-- ⚡ Fun fact: In theory, theory and practice are the same. In practice, they are not 😏
+- ⚡ In theory, theory and practice are the same. In practice... 😏
 
 <!--
 **alexandremaz/alexandremaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
